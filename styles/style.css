@@ -407,7 +407,9 @@ body {
 
 /* border wrapper */
 .border-wrappper {
-  border: 1px solid var(--comands-filter-color);
+  border-bottom: 1px solid var(--comands-filter-color);
+  border-left: 1px solid var(--comands-filter-color);
+  border-right: 1px solid var(--comands-filter-color);
 }
 
 /* portfolio title */
